@@ -14,7 +14,7 @@ class Test
 import java.io.*;
 
 class Devops {
-    // Function to print N Fibonacci Number
+   
     static void Fibonacci(int N)
     {
         int num1 = 0, num2 = 1;
@@ -30,7 +30,7 @@ class Devops {
         }
     }
 
-    // Driver Code
+   
     public static void main(String args[])
     {
         // Given Number N
